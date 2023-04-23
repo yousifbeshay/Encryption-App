@@ -97,14 +97,14 @@ namespace EncryptionApp
             {
                 // show password text
                 passwordTxt.UseSystemPasswordChar = false;
-                btnVisible.Image = Resources.invisible_30px;
+                btnVisible.Image = Resources.visible_30px;
                 visible = true;
             }
             else
             {
                 // hide password text
                 passwordTxt.UseSystemPasswordChar = true;
-                btnVisible.Image = Resources.visible_30px;
+                btnVisible.Image = Resources.invisible_30px;
                 visible = false;
             }
         }

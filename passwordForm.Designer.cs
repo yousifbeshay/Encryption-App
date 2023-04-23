@@ -81,7 +81,7 @@
             // 
             // btnVisible
             // 
-            this.btnVisible.Image = global::EncryptionApp.Properties.Resources.visible_30px;
+            this.btnVisible.Image = global::EncryptionApp.Properties.Resources.invisible_30px;
             this.btnVisible.Location = new System.Drawing.Point(807, 104);
             this.btnVisible.Name = "btnVisible";
             this.btnVisible.Size = new System.Drawing.Size(50, 50);
