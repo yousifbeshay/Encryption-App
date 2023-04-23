@@ -1,0 +1,16 @@
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.exe.config
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.exe
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.pdb
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.csprojAssemblyReference.cache
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.Encryption_form.resources
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.Properties.Resources.resources
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.csproj.GenerateResource.cache
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.exe
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.pdb
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.passwordForm.resources
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.exe.manifest
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.application
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.exe.manifest
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.application
+C:\Users\black\source\repos\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.frmChangePassword.resources
